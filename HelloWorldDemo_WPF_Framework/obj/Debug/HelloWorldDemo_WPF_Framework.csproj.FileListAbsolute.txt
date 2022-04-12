@@ -17,3 +17,5 @@ H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Deb
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldDemo_WPF_Framework.pdb
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HW.baml
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HW.g.cs
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTen\CTT.baml
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTen\CTT.g.cs

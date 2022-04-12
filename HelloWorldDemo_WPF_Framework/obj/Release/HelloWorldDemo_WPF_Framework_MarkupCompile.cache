@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Release\
 HelloWorldDemo_WPF_Framework
 none
 false
-DEBUG;TRACE
+TRACE
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\App.xaml
 3-1249377422
 
@@ -16,5 +16,5 @@ H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\App.xam
 13-38814620
 CountToTen\CTT.xaml;HelloWorldFolder\HW.xaml;MainWindow.xaml;
 
-False
+True
 
