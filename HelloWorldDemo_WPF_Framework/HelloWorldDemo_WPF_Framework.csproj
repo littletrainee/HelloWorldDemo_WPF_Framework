@@ -59,6 +59,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="CurrentTimeFolder\CT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="HelloWorldFolder\HW.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -73,6 +77,9 @@
     </Compile>
     <Compile Include="CountToTen\CTT.xaml.cs">
       <DependentUpon>CTT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CurrentTimeFolder\CT.xaml.cs">
+      <DependentUpon>CT.xaml</DependentUpon>
     </Compile>
     <Compile Include="HelloWorldFolder\HW.xaml.cs">
       <DependentUpon>HW.xaml</DependentUpon>

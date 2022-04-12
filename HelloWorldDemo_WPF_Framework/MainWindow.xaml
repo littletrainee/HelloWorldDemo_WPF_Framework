@@ -5,10 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:hw="clr-namespace:HelloWorldDemo_WPF_Framework.HelloWorldFolder"
         xmlns:ctt="clr-namespace:HelloWorldDemo_WPF_Framework.CountToTen"
+        xmlns:ct="clr-namespace:HelloWorldDemo_WPF_Framework.CurrentTimeFolder"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
     <hw:HW />
     <ctt:CTT />
+    <ct:CT />
   </Grid>
 </Window>
