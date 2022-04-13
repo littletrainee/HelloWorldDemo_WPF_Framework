@@ -3,14 +3,14 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:hw="clr-namespace:HelloWorldDemo_WPF_Framework.HelloWorldFolder"
-        xmlns:ctt="clr-namespace:HelloWorldDemo_WPF_Framework.CountToTen"
-        xmlns:ct="clr-namespace:HelloWorldDemo_WPF_Framework.CurrentTimeFolder"
+        xmlns:HelloWorldFolder="clr-namespace:HelloWorldDemo_WPF_Framework.HelloWorldFolder"
+        xmlns:CountToTenFolder="clr-namespace:HelloWorldDemo_WPF_Framework.CountToTenFolder"
+        xmlns:CurrentTimeFolder="clr-namespace:HelloWorldDemo_WPF_Framework.CurrentTimeFolder"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-    <hw:HW />
-    <ctt:CTT />
-    <ct:CT />
+    <HelloWorldFolder:HelloWorldController/>
+    <CountToTenFolder:CountToTenControl/>
+    <CurrentTimeFolder:CurrentTimeControl/>
   </Grid>
 </Window>

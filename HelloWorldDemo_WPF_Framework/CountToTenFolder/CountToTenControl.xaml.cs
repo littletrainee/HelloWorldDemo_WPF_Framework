@@ -1,15 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
 using System.Windows.Threading;
-namespace HelloWorldDemo_WPF_Framework.CountToTen {
+
+namespace HelloWorldDemo_WPF_Framework.CountToTenFolder {
   /// <summary>
-  /// CTT.xaml 的互動邏輯
+  /// CountToTenControl.xaml 的互動邏輯
   /// </summary>
-  public partial class CTT : UserControl {
-    public CTT() => InitializeComponent();
-    DispatcherTimer Timer { get; set; }
+  public partial class CountToTenControl : UserControl {
+    public CountToTenControl() {
+      InitializeComponent();
+    }
+    // declare
+    private DispatcherTimer Timer { get; set; }
     private int Duration { get; set; }
+    // CoutUp Function 
     private void CountUp(object sender, RoutedEventArgs e) {
       // instance
       Timer = new DispatcherTimer();

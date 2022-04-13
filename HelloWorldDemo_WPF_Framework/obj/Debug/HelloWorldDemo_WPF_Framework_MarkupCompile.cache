@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\App.xaml
-4392219109
+4-1578183659
 
-8-1488588571
+8-954400727
 13-38814620
-CountToTen\CTT.xaml;CurrentTimeFolder\CT.xaml;HelloWorldFolder\HW.xaml;MainWindow.xaml;
+CountToTenFolder\CountToTenControl.xaml;CurrentTimeFolder\CurrentTimeControl.xaml;HelloWorldFolder\HelloWorldController.xaml;MainWindow.xaml;
 
 False
 

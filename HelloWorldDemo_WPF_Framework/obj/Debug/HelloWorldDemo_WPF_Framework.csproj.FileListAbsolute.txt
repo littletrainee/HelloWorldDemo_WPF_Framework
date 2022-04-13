@@ -15,9 +15,9 @@ H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Deb
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldDemo_WPF_Framework.csproj.CoreCompileInputs.cache
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldDemo_WPF_Framework.exe
 H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldDemo_WPF_Framework.pdb
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HW.baml
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HW.g.cs
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTen\CTT.baml
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTen\CTT.g.cs
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CurrentTimeFolder\CT.baml
-H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CurrentTimeFolder\CT.g.cs
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HelloWorldController.baml
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\HelloWorldFolder\HelloWorldController.g.cs
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTenFolder\CountToTenControl.baml
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CountToTenFolder\CountToTenControl.g.cs
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CurrentTimeFolder\CurrentTimeControl.baml
+H:\project\003\HelloWorldDemo_WPF_Framework\HelloWorldDemo_WPF_Framework\obj\Debug\CurrentTimeFolder\CurrentTimeControl.g.cs

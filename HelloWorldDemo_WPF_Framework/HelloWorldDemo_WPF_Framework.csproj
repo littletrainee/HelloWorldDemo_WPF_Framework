@@ -55,15 +55,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="CountToTen\CTT.xaml">
+    <Page Include="CountToTenFolder\CountToTenControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="CurrentTimeFolder\CT.xaml">
+    <Page Include="CurrentTimeFolder\CurrentTimeControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="HelloWorldFolder\HW.xaml">
+    <Page Include="HelloWorldFolder\HelloWorldController.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -75,14 +75,14 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="CountToTen\CTT.xaml.cs">
-      <DependentUpon>CTT.xaml</DependentUpon>
+    <Compile Include="CountToTenFolder\CountToTenControl.xaml.cs">
+      <DependentUpon>CountToTenControl.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CurrentTimeFolder\CT.xaml.cs">
-      <DependentUpon>CT.xaml</DependentUpon>
+    <Compile Include="CurrentTimeFolder\CurrentTimeControl.xaml.cs">
+      <DependentUpon>CurrentTimeControl.xaml</DependentUpon>
     </Compile>
-    <Compile Include="HelloWorldFolder\HW.xaml.cs">
-      <DependentUpon>HW.xaml</DependentUpon>
+    <Compile Include="HelloWorldFolder\HelloWorldController.xaml.cs">
+      <DependentUpon>HelloWorldController.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -115,5 +115,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
