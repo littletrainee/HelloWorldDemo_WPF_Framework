@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:HelloWorldFolder="clr-namespace:HelloWorldDemo_WPF_Framework.HelloWorldFolder"
         xmlns:CountToTenFolder="clr-namespace:HelloWorldDemo_WPF_Framework.CountToTenFolder"
-        xmlns:CurrentTimeFolder="clr-namespace:HelloWorldDemo_WPF_Framework.CurrentTimeFolder"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
     <HelloWorldFolder:HelloWorldController/>
     <CountToTenFolder:CountToTenControl/>
-    <CurrentTimeFolder:CurrentTimeControl/>
+        <!--
+        xmlns:CurrentTimeFolder="clr-namespace:HelloWorldDemo_WPF_Framework.CurrentTimeFolder"
+    <CurrentTimeFolder:CurrentTimeControl/>-->
   </Grid>
 </Window>

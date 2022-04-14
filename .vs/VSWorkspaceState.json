@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelloWorldDemo_WPF_Framework",
+    "\\HelloWorldDemo_WPF_Framework\\HelloWorldFolder"
   ],
+  "SelectedNode": "\\HelloWorldDemo_WPF_Framework\\HelloWorldFolder\\HelloWorldController.xaml",
   "PreviewInSolutionExplorer": false
 }
